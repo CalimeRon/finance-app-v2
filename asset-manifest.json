@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/finance-app-v2/static/css/main.284fc29c.css",
-    "main.js": "/finance-app-v2/static/js/main.a3acf9e6.js",
-    "static/js/787.40d183bd.chunk.js": "/finance-app-v2/static/js/787.40d183bd.chunk.js",
-    "index.html": "/finance-app-v2/index.html",
-    "main.284fc29c.css.map": "/finance-app-v2/static/css/main.284fc29c.css.map",
-    "main.a3acf9e6.js.map": "/finance-app-v2/static/js/main.a3acf9e6.js.map",
-    "787.40d183bd.chunk.js.map": "/finance-app-v2/static/js/787.40d183bd.chunk.js.map"
+    "main.css": "/finance.devcalimeron.com/static/css/main.284fc29c.css",
+    "main.js": "/finance.devcalimeron.com/static/js/main.4f6cfc83.js",
+    "static/js/787.40d183bd.chunk.js": "/finance.devcalimeron.com/static/js/787.40d183bd.chunk.js",
+    "index.html": "/finance.devcalimeron.com/index.html",
+    "main.284fc29c.css.map": "/finance.devcalimeron.com/static/css/main.284fc29c.css.map",
+    "main.4f6cfc83.js.map": "/finance.devcalimeron.com/static/js/main.4f6cfc83.js.map",
+    "787.40d183bd.chunk.js.map": "/finance.devcalimeron.com/static/js/787.40d183bd.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.284fc29c.css",
-    "static/js/main.a3acf9e6.js"
+    "static/js/main.4f6cfc83.js"
   ]
 }
